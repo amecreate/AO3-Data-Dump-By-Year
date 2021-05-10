@@ -3,7 +3,7 @@ Python code for saving the official AO3 data dump into smaller files, filtered b
 
 # Original Data
 
-Check out the official post "Selective data dump for fan statisticians" on [AO3 website](https://www.archiveofourown.org/admin_posts/18804).
+Check out the official post ["Selective data dump for fan statisticians"](https://www.archiveofourown.org/admin_posts/18804) on AO3 website.
 
 The data released by AO3 comes in two CSV files.
 
